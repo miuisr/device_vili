@@ -1,7 +1,9 @@
 {   
-   "Device_name": "Villi",
+   "Device_name": "Haydn",
    "Developer_name": "Retardpro",
    "tg": "https://www.telegram.me/retardpro",
-   "Latest_build_name": "Latest",
-   "Latest_build_link": "cloud.miuisr.ml"
+   "villi_in_name": "Villi",
+   "villi_in_link": "cloud.miuisr.ml",
+   "villi_nfc_name": "Villi (NFC)",
+   "villi_nfc_link": "cloud.miuisr.ml"
 }
